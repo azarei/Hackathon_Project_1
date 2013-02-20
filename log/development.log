@@ -1,0 +1,2153 @@
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 127.0.0.1 at 2013-02-05 10:05:03 -0700
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (6.0ms)
+Warning. Error encountered while saving cache C:/Users/azarei/Documents/GitHub/GettyHackaton/tmp/cache/sass/bad9cf0597acbb99fa15be153b1f2cee8b968339/_modular-scale.sassc: can't dump anonymous class #<Class:0x3eff7c0>
+Compiled foundation_and_overrides.css  (3130ms)  (pid 3612)
+Compiled _sassybuttons.css  (268ms)  (pid 3612)
+Compiled index.css  (300ms)  (pid 3612)
+Compiled scaffolds.css  (13ms)  (pid 3612)
+Compiled application.css  (3804ms)  (pid 3612)
+Compiled jquery.js  (3ms)  (pid 3612)
+Compiled jquery_ujs.js  (0ms)  (pid 3612)
+Compiled foundation/modernizr.foundation.js  (0ms)  (pid 3612)
+Compiled foundation/jquery.placeholder.js  (1ms)  (pid 3612)
+Compiled foundation/jquery.foundation.alerts.js  (0ms)  (pid 3612)
+Compiled foundation/jquery.foundation.accordion.js  (0ms)  (pid 3612)
+Compiled foundation/jquery.foundation.buttons.js  (0ms)  (pid 3612)
+Compiled foundation/jquery.foundation.tooltips.js  (0ms)  (pid 3612)
+Compiled foundation/jquery.foundation.forms.js  (0ms)  (pid 3612)
+Compiled foundation/jquery.foundation.tabs.js  (0ms)  (pid 3612)
+Compiled foundation/jquery.foundation.navigation.js  (1ms)  (pid 3612)
+Compiled foundation/jquery.foundation.topbar.js  (0ms)  (pid 3612)
+Compiled foundation/jquery.foundation.reveal.js  (1ms)  (pid 3612)
+Compiled foundation/jquery.foundation.orbit.js  (0ms)  (pid 3612)
+Compiled foundation/jquery.foundation.magellan.js  (0ms)  (pid 3612)
+Compiled foundation/jquery.foundation.joyride.js  (0ms)  (pid 3612)
+Compiled foundation/jquery.foundation.clearing.js  (0ms)  (pid 3612)
+Compiled foundation/jquery.foundation.mediaQueryToggle.js  (1ms)  (pid 3612)
+Compiled foundation/app.js  (0ms)  (pid 3612)
+Compiled foundation/index.js  (522ms)  (pid 3612)
+Compiled heatcanvas-worker.js  (0ms)  (pid 3612)
+Compiled heatmap-leaflet.js  (1ms)  (pid 3612)
+Compiled heatmap.js  (0ms)  (pid 3612)
+Compiled index.js  (0ms)  (pid 3612)
+Compiled jquery.livetwitter.js  (1ms)  (pid 3612)
+Compiled jquery.simplemodal-1.4.3.js  (0ms)  (pid 3612)
+Compiled markercluster.js  (0ms)  (pid 3612)
+Compiled application.js  (832ms)  (pid 3612)
+Completed 200 OK in 6432ms (Views: 4947.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /application.css - 200 OK (16ms)
+
+
+Started GET "/assets/_sassybuttons.css?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /_sassybuttons.css - 200 OK (4ms)
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /foundation_and_overrides.css - 200 OK (50ms)
+
+
+Started GET "/assets/index.css?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /index.css - 200 OK (8ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /scaffolds.css - 200 OK (6ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /jquery.js - 200 OK (35ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /jquery_ujs.js - 200 OK (9ms)
+
+
+Started GET "/assets/foundation/modernizr.foundation.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /foundation/modernizr.foundation.js - 200 OK (40ms)
+
+
+Started GET "/assets/foundation/jquery.placeholder.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /foundation/jquery.placeholder.js - 200 OK (8ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.alerts.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /foundation/jquery.foundation.alerts.js - 200 OK (6ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.accordion.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /foundation/jquery.foundation.accordion.js - 200 OK (7ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.buttons.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /foundation/jquery.foundation.buttons.js - 200 OK (49ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /foundation/jquery.foundation.tooltips.js - 200 OK (12ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.reveal.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /foundation/jquery.foundation.reveal.js - 200 OK (7ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.topbar.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /foundation/jquery.foundation.topbar.js - 200 OK (12ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.tabs.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /foundation/jquery.foundation.tabs.js - 200 OK (46ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.forms.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /foundation/jquery.foundation.forms.js - 200 OK (8ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.navigation.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /foundation/jquery.foundation.navigation.js - 200 OK (9ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.orbit.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /foundation/jquery.foundation.orbit.js - 200 OK (10ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.magellan.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /foundation/jquery.foundation.magellan.js - 200 OK (6ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.clearing.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /foundation/jquery.foundation.clearing.js - 200 OK (7ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.joyride.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /foundation/jquery.foundation.joyride.js - 200 OK (6ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.mediaQueryToggle.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /foundation/jquery.foundation.mediaQueryToggle.js - 200 OK (4ms)
+
+
+Started GET "/assets/foundation/app.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /foundation/app.js - 200 OK (6ms)
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /foundation/index.js - 200 OK (33ms)
+
+
+Started GET "/assets/heatcanvas-worker.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /heatcanvas-worker.js - 200 OK (3ms)
+
+
+Started GET "/assets/heatmap-leaflet.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /heatmap-leaflet.js - 200 OK (35ms)
+
+
+Started GET "/assets/heatmap.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /heatmap.js - 200 OK (6ms)
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /index.js - 200 OK (6ms)
+
+
+Started GET "/assets/jquery.livetwitter.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /jquery.livetwitter.js - 200 OK (4ms)
+
+
+Started GET "/assets/jquery.simplemodal-1.4.3.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /jquery.simplemodal-1.4.3.js - 200 OK (3ms)
+
+
+Started GET "/assets/markercluster.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /markercluster.js - 200 OK (4ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-02-05 10:05:10 -0700
+Served asset /application.js - 200 OK (83ms)
+
+
+Started GET "/assets/mapstream_logo.png" for 127.0.0.1 at 2013-02-05 10:05:11 -0700
+Served asset /mapstream_logo.png - 200 OK (26ms)
+
+
+Started GET "/assets/loader.gif" for 127.0.0.1 at 2013-02-05 10:05:28 -0700
+Served asset /loader.gif - 200 OK (94ms)
+
+
+Started GET "/index/image.json?phrase=car&zoom=3&long=-90.087890625&lat=21.677302820385584&num=4" for 127.0.0.1 at 2013-02-05 10:05:28 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"car", "zoom"=>"3", "long"=>"-90.087890625", "lat"=>"21.677302820385584", "num"=>"4"}
+Completed 500 Internal Server Error in 584ms
+
+OpenSSL::SSL::SSLError (SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed):
+  lib/api/getty_connect.rb:118:in `post_json'
+  lib/api/getty_connect.rb:35:in `create_session'
+  lib/api/getty_connect.rb:16:in `initialize'
+  app/controllers/index_controller.rb:58:in `new'
+  app/controllers/index_controller.rb:58:in `image'
+
+
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (32.0ms)
+
+
+Started GET "/index/image.json?phrase=car&zoom=3&long=-90.087890625&lat=21.677302820385584&num=4" for 127.0.0.1 at 2013-02-05 10:05:39 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"car", "zoom"=>"3", "long"=>"-90.087890625", "lat"=>"21.677302820385584", "num"=>"4"}
+Completed 500 Internal Server Error in 333ms
+
+OpenSSL::SSL::SSLError (SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed):
+  lib/api/getty_connect.rb:118:in `post_json'
+  lib/api/getty_connect.rb:35:in `create_session'
+  lib/api/getty_connect.rb:16:in `initialize'
+  app/controllers/index_controller.rb:58:in `new'
+  app/controllers/index_controller.rb:58:in `image'
+
+
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (53.0ms)
+
+
+Started GET "/index/image.json?phrase=car&zoom=4&long=-90.0439453125&lat=33.95983278541194&num=4" for 127.0.0.1 at 2013-02-05 10:05:39 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"car", "zoom"=>"4", "long"=>"-90.0439453125", "lat"=>"33.95983278541194", "num"=>"4"}
+Completed 500 Internal Server Error in 438ms
+
+OpenSSL::SSL::SSLError (SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed):
+  lib/api/getty_connect.rb:118:in `post_json'
+  lib/api/getty_connect.rb:35:in `create_session'
+  lib/api/getty_connect.rb:16:in `initialize'
+  app/controllers/index_controller.rb:58:in `new'
+  app/controllers/index_controller.rb:58:in `image'
+
+
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (22.0ms)
+
+
+Started GET "/index/image.json?phrase=car&zoom=5&long=-90.02197265625&lat=38.405062773717326&num=4" for 127.0.0.1 at 2013-02-05 10:05:41 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"car", "zoom"=>"5", "long"=>"-90.02197265625", "lat"=>"38.405062773717326", "num"=>"4"}
+Completed 500 Internal Server Error in 488ms
+
+OpenSSL::SSL::SSLError (SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed):
+  lib/api/getty_connect.rb:118:in `post_json'
+  lib/api/getty_connect.rb:35:in `create_session'
+  lib/api/getty_connect.rb:16:in `initialize'
+  app/controllers/index_controller.rb:58:in `new'
+  app/controllers/index_controller.rb:58:in `image'
+
+
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (26.0ms)
+
+
+Started GET "/index/image.json?phrase=car&zoom=6&long=-88.209228515625&lat=40.444072908259386&num=4" for 127.0.0.1 at 2013-02-05 10:05:44 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"car", "zoom"=>"6", "long"=>"-88.209228515625", "lat"=>"40.444072908259386", "num"=>"4"}
+Completed 500 Internal Server Error in 424ms
+
+OpenSSL::SSL::SSLError (SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed):
+  lib/api/getty_connect.rb:118:in `post_json'
+  lib/api/getty_connect.rb:35:in `create_session'
+  lib/api/getty_connect.rb:16:in `initialize'
+  app/controllers/index_controller.rb:58:in `new'
+  app/controllers/index_controller.rb:58:in `image'
+
+
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (27.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-02-05 10:06:38 -0700
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1024ms (Views: 34.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-02-05 10:06:39 -0700
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2013-02-05 10:06:39 -0700
+Served asset /foundation_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/_sassybuttons.css?body=1" for 127.0.0.1 at 2013-02-05 10:06:39 -0700
+Served asset /_sassybuttons.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/index.css?body=1" for 127.0.0.1 at 2013-02-05 10:06:39 -0700
+Served asset /index.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-02-05 10:06:39 -0700
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:39 -0700
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:39 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/modernizr.foundation.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:39 -0700
+Served asset /foundation/modernizr.foundation.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.alerts.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:39 -0700
+Served asset /foundation/jquery.foundation.alerts.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.accordion.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:39 -0700
+Served asset /foundation/jquery.foundation.accordion.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.placeholder.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:39 -0700
+Served asset /foundation/jquery.placeholder.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.buttons.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:39 -0700
+Served asset /foundation/jquery.foundation.buttons.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:40 -0700
+Served asset /foundation/jquery.foundation.tooltips.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.forms.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:40 -0700
+Served asset /foundation/jquery.foundation.forms.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.tabs.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:40 -0700
+Served asset /foundation/jquery.foundation.tabs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.reveal.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:40 -0700
+Served asset /foundation/jquery.foundation.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.topbar.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:40 -0700
+Served asset /foundation/jquery.foundation.topbar.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.navigation.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:40 -0700
+Served asset /foundation/jquery.foundation.navigation.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.orbit.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:40 -0700
+Served asset /foundation/jquery.foundation.orbit.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.magellan.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:40 -0700
+Served asset /foundation/jquery.foundation.magellan.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.joyride.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:40 -0700
+Served asset /foundation/jquery.foundation.joyride.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.clearing.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:40 -0700
+Served asset /foundation/jquery.foundation.clearing.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.mediaQueryToggle.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:40 -0700
+Served asset /foundation/jquery.foundation.mediaQueryToggle.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/app.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:40 -0700
+Served asset /foundation/app.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:40 -0700
+Served asset /foundation/index.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/heatcanvas-worker.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:40 -0700
+Served asset /heatcanvas-worker.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/heatmap-leaflet.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:40 -0700
+Served asset /heatmap-leaflet.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/heatmap.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:40 -0700
+Served asset /heatmap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:40 -0700
+Served asset /index.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.livetwitter.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:40 -0700
+Served asset /jquery.livetwitter.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.simplemodal-1.4.3.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:41 -0700
+Served asset /jquery.simplemodal-1.4.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/markercluster.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:41 -0700
+Served asset /markercluster.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-02-05 10:06:41 -0700
+Served asset /application.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/mapstream_logo.png" for 127.0.0.1 at 2013-02-05 10:06:41 -0700
+Served asset /mapstream_logo.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/loader.gif" for 127.0.0.1 at 2013-02-05 10:06:48 -0700
+Served asset /loader.gif - 304 Not Modified (0ms)
+
+
+Started GET "/index/image.json?phrase=superman&zoom=3&long=-90.087890625&lat=21.677302820385584&num=4" for 127.0.0.1 at 2013-02-05 10:06:48 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"superman", "zoom"=>"3", "long"=>"-90.087890625", "lat"=>"21.677302820385584", "num"=>"4"}
+Completed 500 Internal Server Error in 307ms
+
+OpenSSL::SSL::SSLError (SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed):
+  lib/api/getty_connect.rb:118:in `post_json'
+  lib/api/getty_connect.rb:35:in `create_session'
+  lib/api/getty_connect.rb:16:in `initialize'
+  app/controllers/index_controller.rb:58:in `new'
+  app/controllers/index_controller.rb:58:in `image'
+
+
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (22.0ms)
+
+
+Started GET "/assets/loader.gif" for 127.0.0.1 at 2013-02-05 10:07:01 -0700
+Served asset /loader.gif - 304 Not Modified (0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=3&long=-90.087890625&lat=21.677302820385584&num=4" for 127.0.0.1 at 2013-02-05 10:07:02 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"3", "long"=>"-90.087890625", "lat"=>"21.677302820385584", "num"=>"4"}
+Completed 500 Internal Server Error in 448ms
+
+OpenSSL::SSL::SSLError (SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed):
+  lib/api/getty_connect.rb:118:in `post_json'
+  lib/api/getty_connect.rb:35:in `create_session'
+  lib/api/getty_connect.rb:16:in `initialize'
+  app/controllers/index_controller.rb:58:in `new'
+  app/controllers/index_controller.rb:58:in `image'
+
+
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (33.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=3&long=-90.087890625&lat=21.677302820385584&num=4" for 127.0.0.1 at 2013-02-05 10:07:07 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"3", "long"=>"-90.087890625", "lat"=>"21.677302820385584", "num"=>"4"}
+Completed 500 Internal Server Error in 323ms
+
+OpenSSL::SSL::SSLError (SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed):
+  lib/api/getty_connect.rb:118:in `post_json'
+  lib/api/getty_connect.rb:35:in `create_session'
+  lib/api/getty_connect.rb:16:in `initialize'
+  app/controllers/index_controller.rb:58:in `new'
+  app/controllers/index_controller.rb:58:in `image'
+
+
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (17.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=18&long=-64.7131285071373&lat=46.46804059705009&num=4" for 127.0.0.1 at 2013-02-05 10:07:13 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"18", "long"=>"-64.7131285071373", "lat"=>"46.46804059705009", "num"=>"4"}
+Completed 500 Internal Server Error in 435ms
+
+OpenSSL::SSL::SSLError (SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed):
+  lib/api/getty_connect.rb:118:in `post_json'
+  lib/api/getty_connect.rb:35:in `create_session'
+  lib/api/getty_connect.rb:16:in `initialize'
+  app/controllers/index_controller.rb:58:in `new'
+  app/controllers/index_controller.rb:58:in `image'
+
+
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=17&long=-64.71312582492828&lat=46.468036826078794&num=4" for 127.0.0.1 at 2013-02-05 10:07:16 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"17", "long"=>"-64.71312582492828", "lat"=>"46.468036826078794", "num"=>"4"}
+Completed 500 Internal Server Error in 622ms
+
+OpenSSL::SSL::SSLError (SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed):
+  lib/api/getty_connect.rb:118:in `post_json'
+  lib/api/getty_connect.rb:35:in `create_session'
+  lib/api/getty_connect.rb:16:in `initialize'
+  app/controllers/index_controller.rb:58:in `new'
+  app/controllers/index_controller.rb:58:in `image'
+
+
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (26.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=16&long=-64.71313118934631&lat=46.46802913177632&num=4" for 127.0.0.1 at 2013-02-05 10:07:57 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"16", "long"=>"-64.71313118934631", "lat"=>"46.46802913177632", "num"=>"4"}
+Completed 500 Internal Server Error in 503ms
+
+OpenSSL::SSL::SSLError (SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed):
+  lib/api/getty_connect.rb:118:in `post_json'
+  lib/api/getty_connect.rb:35:in `create_session'
+  lib/api/getty_connect.rb:16:in `initialize'
+  app/controllers/index_controller.rb:58:in `new'
+  app/controllers/index_controller.rb:58:in `image'
+
+
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (5.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (33.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=18&long=-64.7131285071373&lat=46.46804059705009&num=4" for 127.0.0.1 at 2013-02-05 10:08:00 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"18", "long"=>"-64.7131285071373", "lat"=>"46.46804059705009", "num"=>"4"}
+Completed 500 Internal Server Error in 651ms
+
+OpenSSL::SSL::SSLError (SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed):
+  lib/api/getty_connect.rb:118:in `post_json'
+  lib/api/getty_connect.rb:35:in `create_session'
+  lib/api/getty_connect.rb:16:in `initialize'
+  app/controllers/index_controller.rb:58:in `new'
+  app/controllers/index_controller.rb:58:in `image'
+
+
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (14.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=17&long=-64.71312582492828&lat=46.468036826078794&num=4" for 127.0.0.1 at 2013-02-05 10:08:01 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"17", "long"=>"-64.71312582492828", "lat"=>"46.468036826078794", "num"=>"4"}
+Completed 500 Internal Server Error in 493ms
+
+OpenSSL::SSL::SSLError (SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed):
+  lib/api/getty_connect.rb:118:in `post_json'
+  lib/api/getty_connect.rb:35:in `create_session'
+  lib/api/getty_connect.rb:16:in `initialize'
+  app/controllers/index_controller.rb:58:in `new'
+  app/controllers/index_controller.rb:58:in `image'
+
+
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (26.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=16&long=-64.71313118934631&lat=46.46802913177632&num=4" for 127.0.0.1 at 2013-02-05 10:08:01 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"16", "long"=>"-64.71313118934631", "lat"=>"46.46802913177632", "num"=>"4"}
+Completed 500 Internal Server Error in 538ms
+
+OpenSSL::SSL::SSLError (SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed):
+  lib/api/getty_connect.rb:118:in `post_json'
+  lib/api/getty_connect.rb:35:in `create_session'
+  lib/api/getty_connect.rb:16:in `initialize'
+  app/controllers/index_controller.rb:58:in `new'
+  app/controllers/index_controller.rb:58:in `image'
+
+
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (31.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=15&long=-64.71314191818237&lat=46.46801313373193&num=4" for 127.0.0.1 at 2013-02-05 10:08:02 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"15", "long"=>"-64.71314191818237", "lat"=>"46.46801313373193", "num"=>"4"}
+Completed 500 Internal Server Error in 515ms
+
+OpenSSL::SSL::SSLError (SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed):
+  lib/api/getty_connect.rb:118:in `post_json'
+  lib/api/getty_connect.rb:35:in `create_session'
+  lib/api/getty_connect.rb:16:in `initialize'
+  app/controllers/index_controller.rb:58:in `new'
+  app/controllers/index_controller.rb:58:in `image'
+
+
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (34.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=14&long=-64.71312046051025&lat=46.468008258240815&num=4" for 127.0.0.1 at 2013-02-05 10:08:03 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"14", "long"=>"-64.71312046051025", "lat"=>"46.468008258240815", "num"=>"4"}
+Completed 500 Internal Server Error in 569ms
+
+OpenSSL::SSL::SSLError (SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed):
+  lib/api/getty_connect.rb:118:in `post_json'
+  lib/api/getty_connect.rb:35:in `create_session'
+  lib/api/getty_connect.rb:16:in `initialize'
+  app/controllers/index_controller.rb:58:in `new'
+  app/controllers/index_controller.rb:58:in `image'
+
+
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (22.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=13&long=-64.71316337585449&lat=46.467988756281535&num=4" for 127.0.0.1 at 2013-02-05 10:08:03 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"13", "long"=>"-64.71316337585449", "lat"=>"46.467988756281535", "num"=>"4"}
+Completed 500 Internal Server Error in 505ms
+
+OpenSSL::SSL::SSLError (SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed):
+  lib/api/getty_connect.rb:118:in `post_json'
+  lib/api/getty_connect.rb:35:in `create_session'
+  lib/api/getty_connect.rb:16:in `initialize'
+  app/controllers/index_controller.rb:58:in `new'
+  app/controllers/index_controller.rb:58:in `image'
+
+
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (27.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=12&long=-64.71307754516602&lat=46.46779251498751&num=4" for 127.0.0.1 at 2013-02-05 10:08:05 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"12", "long"=>"-64.71307754516602", "lat"=>"46.46779251498751", "num"=>"4"}
+Completed 500 Internal Server Error in 528ms
+
+OpenSSL::SSL::SSLError (SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed):
+  lib/api/getty_connect.rb:118:in `post_json'
+  lib/api/getty_connect.rb:35:in `create_session'
+  lib/api/getty_connect.rb:16:in `initialize'
+  app/controllers/index_controller.rb:58:in `new'
+  app/controllers/index_controller.rb:58:in `image'
+
+
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (26.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=11&long=-64.71324920654297&lat=46.467244017229156&num=4" for 127.0.0.1 at 2013-02-05 10:08:06 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"11", "long"=>"-64.71324920654297", "lat"=>"46.467244017229156", "num"=>"4"}
+Completed 500 Internal Server Error in 546ms
+
+OpenSSL::SSL::SSLError (SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed):
+  lib/api/getty_connect.rb:118:in `post_json'
+  lib/api/getty_connect.rb:35:in `create_session'
+  lib/api/getty_connect.rb:16:in `initialize'
+  app/controllers/index_controller.rb:58:in `new'
+  app/controllers/index_controller.rb:58:in `image'
+
+
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (30.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-02-05 10:09:16 -0700
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 762ms (Views: 34.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-02-05 10:09:17 -0700
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-02-05 10:09:17 -0700
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2013-02-05 10:09:17 -0700
+Served asset /foundation_and_overrides.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/_sassybuttons.css?body=1" for 127.0.0.1 at 2013-02-05 10:09:17 -0700
+Served asset /_sassybuttons.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/index.css?body=1" for 127.0.0.1 at 2013-02-05 10:09:17 -0700
+Served asset /index.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:17 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:17 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.alerts.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:18 -0700
+Served asset /foundation/jquery.foundation.alerts.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/modernizr.foundation.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:18 -0700
+Served asset /foundation/modernizr.foundation.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.placeholder.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:18 -0700
+Served asset /foundation/jquery.placeholder.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.accordion.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:18 -0700
+Served asset /foundation/jquery.foundation.accordion.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.buttons.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:18 -0700
+Served asset /foundation/jquery.foundation.buttons.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:18 -0700
+Served asset /foundation/jquery.foundation.tooltips.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.forms.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:18 -0700
+Served asset /foundation/jquery.foundation.forms.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.tabs.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:18 -0700
+Served asset /foundation/jquery.foundation.tabs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.navigation.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:18 -0700
+Served asset /foundation/jquery.foundation.navigation.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.topbar.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:18 -0700
+Served asset /foundation/jquery.foundation.topbar.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.reveal.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:18 -0700
+Served asset /foundation/jquery.foundation.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.orbit.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:18 -0700
+Served asset /foundation/jquery.foundation.orbit.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.magellan.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:18 -0700
+Served asset /foundation/jquery.foundation.magellan.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.joyride.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:18 -0700
+Served asset /foundation/jquery.foundation.joyride.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.clearing.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:18 -0700
+Served asset /foundation/jquery.foundation.clearing.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.mediaQueryToggle.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:18 -0700
+Served asset /foundation/jquery.foundation.mediaQueryToggle.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/app.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:18 -0700
+Served asset /foundation/app.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:18 -0700
+Served asset /foundation/index.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/heatcanvas-worker.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:18 -0700
+Served asset /heatcanvas-worker.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/heatmap-leaflet.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:19 -0700
+Served asset /heatmap-leaflet.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/heatmap.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:19 -0700
+Served asset /heatmap.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:19 -0700
+Served asset /index.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.livetwitter.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:19 -0700
+Served asset /jquery.livetwitter.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.simplemodal-1.4.3.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:19 -0700
+Served asset /jquery.simplemodal-1.4.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/markercluster.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:19 -0700
+Served asset /markercluster.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-02-05 10:09:19 -0700
+Served asset /application.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/mapstream_logo.png" for 127.0.0.1 at 2013-02-05 10:09:19 -0700
+Served asset /mapstream_logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/loader.gif" for 127.0.0.1 at 2013-02-05 10:09:26 -0700
+Served asset /loader.gif - 304 Not Modified (3ms)
+
+
+Started GET "/index/image.json?phrase=iphone&zoom=3&long=-90.087890625&lat=21.677302820385584&num=4" for 127.0.0.1 at 2013-02-05 10:09:26 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"iphone", "zoom"=>"3", "long"=>"-90.087890625", "lat"=>"21.677302820385584", "num"=>"4"}
+Completed 500 Internal Server Error in 318ms
+
+OpenSSL::SSL::SSLError (SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed):
+  lib/api/getty_connect.rb:118:in `post_json'
+  lib/api/getty_connect.rb:35:in `create_session'
+  lib/api/getty_connect.rb:16:in `initialize'
+  app/controllers/index_controller.rb:58:in `new'
+  app/controllers/index_controller.rb:58:in `image'
+
+
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (19.0ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 127.0.0.1 at 2013-02-05 11:01:35 -0700
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 1575ms (Views: 795.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.css?body=1" for 127.0.0.1 at 2013-02-05 11:01:37 -0700
+Served asset /index.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/_sassybuttons.css?body=1" for 127.0.0.1 at 2013-02-05 11:01:37 -0700
+Served asset /_sassybuttons.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2013-02-05 11:01:37 -0700
+Served asset /foundation_and_overrides.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:37 -0700
+Served asset /jquery.js - 304 Not Modified (29ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-02-05 11:01:37 -0700
+Served asset /application.css - 304 Not Modified (7ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-02-05 11:01:37 -0700
+Served asset /scaffolds.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:37 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/foundation/modernizr.foundation.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:37 -0700
+Served asset /foundation/modernizr.foundation.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/foundation/jquery.placeholder.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:37 -0700
+Served asset /foundation/jquery.placeholder.js - 304 Not Modified (11ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.alerts.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:37 -0700
+Served asset /foundation/jquery.foundation.alerts.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.accordion.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:37 -0700
+Served asset /foundation/jquery.foundation.accordion.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.buttons.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:37 -0700
+Served asset /foundation/jquery.foundation.buttons.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:37 -0700
+Served asset /foundation/jquery.foundation.tooltips.js - 304 Not Modified (41ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.forms.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:37 -0700
+Served asset /foundation/jquery.foundation.forms.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.tabs.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:37 -0700
+Served asset /foundation/jquery.foundation.tabs.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.navigation.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:38 -0700
+Served asset /foundation/jquery.foundation.navigation.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.topbar.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:38 -0700
+Served asset /foundation/jquery.foundation.topbar.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.reveal.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:38 -0700
+Served asset /foundation/jquery.foundation.reveal.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.orbit.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:38 -0700
+Served asset /foundation/jquery.foundation.orbit.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.magellan.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:38 -0700
+Served asset /foundation/jquery.foundation.magellan.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.joyride.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:38 -0700
+Served asset /foundation/jquery.foundation.joyride.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.clearing.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:38 -0700
+Served asset /foundation/jquery.foundation.clearing.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.mediaQueryToggle.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:38 -0700
+Served asset /foundation/jquery.foundation.mediaQueryToggle.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/foundation/app.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:38 -0700
+Served asset /foundation/app.js - 304 Not Modified (28ms)
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:38 -0700
+Served asset /foundation/index.js - 304 Not Modified (55ms)
+
+
+Started GET "/assets/heatcanvas-worker.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:38 -0700
+Served asset /heatcanvas-worker.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/heatmap-leaflet.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:38 -0700
+Served asset /heatmap-leaflet.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/heatmap.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:38 -0700
+Served asset /heatmap.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:38 -0700
+Served asset /index.js - 304 Not Modified (33ms)
+
+
+Started GET "/assets/jquery.livetwitter.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:38 -0700
+Served asset /jquery.livetwitter.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.simplemodal-1.4.3.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:39 -0700
+Served asset /jquery.simplemodal-1.4.3.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/markercluster.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:39 -0700
+Served asset /markercluster.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-02-05 11:01:39 -0700
+Served asset /application.js - 304 Not Modified (56ms)
+
+
+Started GET "/assets/mapstream_logo.png" for 127.0.0.1 at 2013-02-05 11:01:39 -0700
+Served asset /mapstream_logo.png - 304 Not Modified (5ms)
+
+
+Started GET "/assets/loader.gif" for 127.0.0.1 at 2013-02-05 11:01:42 -0700
+Served asset /loader.gif - 304 Not Modified (6ms)
+
+
+Started GET "/index/image.json?phrase=car&zoom=3&long=-90.087890625&lat=21.677302820385584&num=4" for 127.0.0.1 at 2013-02-05 11:01:42 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"car", "zoom"=>"3", "long"=>"-90.087890625", "lat"=>"21.677302820385584", "num"=>"4"}
+Completed 500 Internal Server Error in 383ms
+
+OpenSSL::SSL::SSLError (SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed):
+  lib/api/getty_connect.rb:118:in `post_json'
+  lib/api/getty_connect.rb:35:in `create_session'
+  lib/api/getty_connect.rb:16:in `initialize'
+  app/controllers/index_controller.rb:58:in `new'
+  app/controllers/index_controller.rb:58:in `image'
+
+
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (25.0ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 127.0.0.1 at 2013-02-05 11:25:27 -0700
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (4.7ms)
+Compiled jquery.js  (2ms)  (pid 2691)
+Compiled jquery_ujs.js  (0ms)  (pid 2691)
+Compiled foundation/modernizr.foundation.js  (0ms)  (pid 2691)
+Compiled foundation/jquery.placeholder.js  (0ms)  (pid 2691)
+Compiled foundation/jquery.foundation.alerts.js  (0ms)  (pid 2691)
+Compiled foundation/jquery.foundation.accordion.js  (0ms)  (pid 2691)
+Compiled foundation/jquery.foundation.buttons.js  (0ms)  (pid 2691)
+Compiled foundation/jquery.foundation.tooltips.js  (0ms)  (pid 2691)
+Compiled foundation/jquery.foundation.forms.js  (0ms)  (pid 2691)
+Compiled foundation/jquery.foundation.tabs.js  (0ms)  (pid 2691)
+Compiled foundation/jquery.foundation.navigation.js  (0ms)  (pid 2691)
+Compiled foundation/jquery.foundation.topbar.js  (0ms)  (pid 2691)
+Compiled foundation/jquery.foundation.reveal.js  (0ms)  (pid 2691)
+Compiled foundation/jquery.foundation.orbit.js  (0ms)  (pid 2691)
+Compiled foundation/jquery.foundation.magellan.js  (0ms)  (pid 2691)
+Compiled foundation/jquery.foundation.joyride.js  (0ms)  (pid 2691)
+Compiled foundation/jquery.foundation.clearing.js  (0ms)  (pid 2691)
+Compiled foundation/jquery.foundation.mediaQueryToggle.js  (0ms)  (pid 2691)
+Compiled foundation/app.js  (0ms)  (pid 2691)
+Compiled foundation/index.js  (330ms)  (pid 2691)
+Compiled application.js  (415ms)  (pid 2691)
+Completed 200 OK in 947ms (Views: 587.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /application.css - 200 OK (28ms)
+
+
+Started GET "/assets/_sassybuttons.css?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /_sassybuttons.css - 200 OK (4ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /scaffolds.css - 200 OK (3ms)
+
+
+Started GET "/assets/index.css?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /index.css - 200 OK (4ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /jquery.js - 200 OK (4ms)
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /foundation_and_overrides.css - 200 OK (5ms)
+
+
+Started GET "/assets/foundation/modernizr.foundation.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /foundation/modernizr.foundation.js - 200 OK (6ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /jquery_ujs.js - 200 OK (6ms)
+
+
+Started GET "/assets/foundation/jquery.placeholder.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /foundation/jquery.placeholder.js - 200 OK (5ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.alerts.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /foundation/jquery.foundation.alerts.js - 200 OK (4ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.accordion.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /foundation/jquery.foundation.accordion.js - 200 OK (5ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /foundation/jquery.foundation.tooltips.js - 200 OK (4ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.buttons.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /foundation/jquery.foundation.buttons.js - 200 OK (3ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.tabs.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /foundation/jquery.foundation.tabs.js - 200 OK (43ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.forms.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /foundation/jquery.foundation.forms.js - 200 OK (6ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.navigation.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /foundation/jquery.foundation.navigation.js - 200 OK (5ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.topbar.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /foundation/jquery.foundation.topbar.js - 200 OK (4ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.reveal.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /foundation/jquery.foundation.reveal.js - 200 OK (5ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.orbit.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /foundation/jquery.foundation.orbit.js - 200 OK (6ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.magellan.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /foundation/jquery.foundation.magellan.js - 200 OK (7ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.joyride.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /foundation/jquery.foundation.joyride.js - 200 OK (4ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.clearing.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /foundation/jquery.foundation.clearing.js - 200 OK (12ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.mediaQueryToggle.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /foundation/jquery.foundation.mediaQueryToggle.js - 200 OK (9ms)
+
+
+Started GET "/assets/foundation/app.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /foundation/app.js - 200 OK (6ms)
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /foundation/index.js - 200 OK (41ms)
+
+
+Started GET "/assets/heatcanvas-worker.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /heatcanvas-worker.js - 200 OK (7ms)
+
+
+Started GET "/assets/heatmap-leaflet.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /heatmap-leaflet.js - 200 OK (4ms)
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /index.js - 200 OK (3ms)
+
+
+Started GET "/assets/heatmap.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /heatmap.js - 200 OK (2ms)
+
+
+Started GET "/assets/jquery.livetwitter.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /jquery.livetwitter.js - 200 OK (2ms)
+
+
+Started GET "/assets/jquery.simplemodal-1.4.3.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /jquery.simplemodal-1.4.3.js - 200 OK (2ms)
+
+
+Started GET "/assets/markercluster.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /markercluster.js - 200 OK (6ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-02-05 11:25:28 -0700
+Served asset /application.js - 200 OK (54ms)
+
+
+Started GET "/assets/mapstream_logo.png" for 127.0.0.1 at 2013-02-05 11:25:29 -0700
+Served asset /mapstream_logo.png - 200 OK (2ms)
+
+
+Started GET "/assets/loader.gif" for 127.0.0.1 at 2013-02-05 11:25:33 -0700
+Served asset /loader.gif - 200 OK (1ms)
+
+
+Started GET "/index/image.json?phrase=car&zoom=3&long=-90&lat=21.677302820385584&num=4" for 127.0.0.1 at 2013-02-05 11:25:33 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"car", "zoom"=>"3", "long"=>"-90", "lat"=>"21.677302820385584", "num"=>"4"}
+Completed 200 OK in 5692ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 127.0.0.1 at 2013-02-05 11:40:56 -0700
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 1056ms (Views: 403.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /foundation_and_overrides.css - 200 OK (15ms)
+
+
+Started GET "/assets/_sassybuttons.css?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /_sassybuttons.css - 200 OK (8ms)
+
+
+Started GET "/assets/index.css?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /index.css - 200 OK (4ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /scaffolds.css - 200 OK (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /jquery.js - 200 OK (17ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /application.css - 200 OK (36ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /jquery_ujs.js - 200 OK (3ms)
+
+
+Started GET "/assets/foundation/jquery.placeholder.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /foundation/jquery.placeholder.js - 200 OK (3ms)
+
+
+Started GET "/assets/foundation/modernizr.foundation.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /foundation/modernizr.foundation.js - 200 OK (3ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.alerts.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /foundation/jquery.foundation.alerts.js - 200 OK (3ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.accordion.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /foundation/jquery.foundation.accordion.js - 200 OK (6ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /foundation/jquery.foundation.tooltips.js - 200 OK (7ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.buttons.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /foundation/jquery.foundation.buttons.js - 200 OK (11ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.forms.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /foundation/jquery.foundation.forms.js - 200 OK (3ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.tabs.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /foundation/jquery.foundation.tabs.js - 200 OK (3ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.navigation.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /foundation/jquery.foundation.navigation.js - 200 OK (3ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.topbar.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /foundation/jquery.foundation.topbar.js - 200 OK (5ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.reveal.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /foundation/jquery.foundation.reveal.js - 200 OK (4ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.magellan.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /foundation/jquery.foundation.magellan.js - 200 OK (5ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.orbit.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /foundation/jquery.foundation.orbit.js - 200 OK (6ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.joyride.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /foundation/jquery.foundation.joyride.js - 200 OK (10ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.clearing.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /foundation/jquery.foundation.clearing.js - 200 OK (9ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.mediaQueryToggle.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /foundation/jquery.foundation.mediaQueryToggle.js - 200 OK (10ms)
+
+
+Started GET "/assets/foundation/app.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /foundation/app.js - 200 OK (5ms)
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /foundation/index.js - 200 OK (46ms)
+
+
+Started GET "/assets/heatcanvas-worker.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /heatcanvas-worker.js - 200 OK (3ms)
+
+
+Started GET "/assets/heatmap.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /heatmap.js - 200 OK (4ms)
+
+
+Started GET "/assets/heatmap-leaflet.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /heatmap-leaflet.js - 200 OK (6ms)
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /index.js - 200 OK (2ms)
+
+
+Started GET "/assets/jquery.livetwitter.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /jquery.livetwitter.js - 200 OK (4ms)
+
+
+Started GET "/assets/jquery.simplemodal-1.4.3.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:57 -0700
+Served asset /jquery.simplemodal-1.4.3.js - 200 OK (2ms)
+
+
+Started GET "/assets/markercluster.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:58 -0700
+Served asset /markercluster.js - 200 OK (40ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-02-05 11:40:58 -0700
+Served asset /application.js - 200 OK (41ms)
+
+
+Started GET "/assets/mapstream_logo.png" for 127.0.0.1 at 2013-02-05 11:40:58 -0700
+Served asset /mapstream_logo.png - 200 OK (59ms)
+
+
+Started GET "/assets/loader.gif" for 127.0.0.1 at 2013-02-05 11:41:10 -0700
+Served asset /loader.gif - 200 OK (54ms)
+
+
+Started GET "/index/image.json?phrase=car&zoom=3&long=-90&lat=21.677302820385584&num=4" for 127.0.0.1 at 2013-02-05 11:41:10 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"car", "zoom"=>"3", "long"=>"-90", "lat"=>"21.677302820385584", "num"=>"4"}
+Completed 200 OK in 11187ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 467ms (Views: 51.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation/jquery.placeholder.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /foundation/jquery.placeholder.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/modernizr.foundation.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /foundation/modernizr.foundation.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.alerts.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /foundation/jquery.foundation.alerts.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.accordion.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /foundation/jquery.foundation.accordion.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.forms.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /foundation/jquery.foundation.forms.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.tabs.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /foundation/jquery.foundation.tabs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /foundation/jquery.foundation.tooltips.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.buttons.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /foundation/jquery.foundation.buttons.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.navigation.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /foundation/jquery.foundation.navigation.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.reveal.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /foundation/jquery.foundation.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.topbar.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /foundation/jquery.foundation.topbar.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.orbit.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /foundation/jquery.foundation.orbit.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.clearing.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /foundation/jquery.foundation.clearing.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.joyride.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /foundation/jquery.foundation.joyride.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /foundation/index.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.mediaQueryToggle.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /foundation/jquery.foundation.mediaQueryToggle.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/app.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /foundation/app.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/heatcanvas-worker.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /heatcanvas-worker.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.magellan.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /foundation/jquery.foundation.magellan.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/heatmap-leaflet.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /heatmap-leaflet.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /index.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/heatmap.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /heatmap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.simplemodal-1.4.3.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /jquery.simplemodal-1.4.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.livetwitter.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /jquery.livetwitter.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:07 -0700
+Served asset /application.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/markercluster.js?body=1" for 127.0.0.1 at 2013-02-05 11:50:08 -0700
+Served asset /markercluster.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/loader.gif" for 127.0.0.1 at 2013-02-05 11:50:15 -0700
+Served asset /loader.gif - 304 Not Modified (11ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=3&long=-90&lat=21.677302820385584&num=4" for 127.0.0.1 at 2013-02-05 11:50:15 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"3", "long"=>"-90", "lat"=>"21.677302820385584", "num"=>"4"}
+Completed 200 OK in 4660ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/loader.gif" for 127.0.0.1 at 2013-02-05 11:50:20 -0700
+Served asset /loader.gif - 304 Not Modified (1ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=3&long=-90&lat=21.677302820385584&num=4" for 127.0.0.1 at 2013-02-05 11:50:23 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"3", "long"=>"-90", "lat"=>"21.677302820385584", "num"=>"4"}
+Completed 200 OK in 10884ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=4&long=-81.5625&lat=37.3295567778879&num=4" for 127.0.0.1 at 2013-02-05 11:50:34 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"4", "long"=>"-81.5625", "lat"=>"37.3295567778879", "num"=>"4"}
+Completed 200 OK in 1836ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/x.png" for 127.0.0.1 at 2013-02-05 11:50:36 -0700
+Served asset /x.png - 200 OK (78ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=5&long=-77.51953125&lat=38.20530237273347&num=4" for 127.0.0.1 at 2013-02-05 11:50:36 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"5", "long"=>"-77.51953125", "lat"=>"38.20530237273347", "num"=>"4"}
+Completed 200 OK in 4967ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=6&long=-84.111328125&lat=37.99796337528675&num=4" for 127.0.0.1 at 2013-02-05 11:50:41 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"6", "long"=>"-84.111328125", "lat"=>"37.99796337528675", "num"=>"4"}
+Completed 200 OK in 7789ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=6&long=-77.01416015625&lat=36.595345561252714&num=4" for 127.0.0.1 at 2013-02-05 11:50:49 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"6", "long"=>"-77.01416015625", "lat"=>"36.595345561252714", "num"=>"4"}
+Completed 200 OK in 1797ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=7&long=-75.78369140625&lat=39.0087798221449&num=4" for 127.0.0.1 at 2013-02-05 11:50:50 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"7", "long"=>"-75.78369140625", "lat"=>"39.0087798221449", "num"=>"4"}
+Completed 200 OK in 2535ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=8&long=-75.2838134765625&lat=39.78232127188892&num=4" for 127.0.0.1 at 2013-02-05 11:50:53 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"8", "long"=>"-75.2838134765625", "lat"=>"39.78232127188892", "num"=>"4"}
+Completed 200 OK in 4425ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=8&long=-75.4486083984375&lat=39.482116127506984&num=4" for 127.0.0.1 at 2013-02-05 11:50:57 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"8", "long"=>"-75.4486083984375", "lat"=>"39.482116127506984", "num"=>"4"}
+Completed 200 OK in 4633ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=7&long=-75.443115234375&lat=39.39951744698561&num=4" for 127.0.0.1 at 2013-02-05 11:51:02 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"7", "long"=>"-75.443115234375", "lat"=>"39.39951744698561", "num"=>"4"}
+Completed 200 OK in 1733ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=6&long=-75.43212890624999&lat=39.08794482954793&num=4" for 127.0.0.1 at 2013-02-05 11:51:04 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"6", "long"=>"-75.43212890624999", "lat"=>"39.08794482954793", "num"=>"4"}
+Completed 200 OK in 12112ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=5&long=-75.41015625&lat=37.87123699678795&num=4" for 127.0.0.1 at 2013-02-05 11:51:16 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"5", "long"=>"-75.41015625", "lat"=>"37.87123699678795", "num"=>"4"}
+Completed 200 OK in 4516ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=4&long=-75.41015625&lat=33.452471394824435&num=4" for 127.0.0.1 at 2013-02-05 11:51:20 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"4", "long"=>"-75.41015625", "lat"=>"33.452471394824435", "num"=>"4"}
+Completed 200 OK in 7933ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=3&long=-134.82421875&lat=32.82247101899868&num=4" for 127.0.0.1 at 2013-02-05 11:51:28 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"3", "long"=>"-134.82421875", "lat"=>"32.82247101899868", "num"=>"4"}
+Completed 200 OK in 6316ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=3&long=-134.296875&lat=26.63556633319327&num=4" for 127.0.0.1 at 2013-02-05 11:51:35 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"3", "long"=>"-134.296875", "lat"=>"26.63556633319327", "num"=>"4"}
+Completed 200 OK in 8091ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=3&long=-132.1875&lat=21.48986409641078&num=4" for 127.0.0.1 at 2013-02-05 11:51:43 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"3", "long"=>"-132.1875", "lat"=>"21.48986409641078", "num"=>"4"}
+Completed 200 OK in 7461ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=3&long=-122.51953125&lat=17.068157145876675&num=4" for 127.0.0.1 at 2013-02-05 11:51:50 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"3", "long"=>"-122.51953125", "lat"=>"17.068157145876675", "num"=>"4"}
+Completed 200 OK in 7040ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=3&long=159.78515625&lat=12.615646705237545&num=4" for 127.0.0.1 at 2013-02-05 11:51:57 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"3", "long"=>"159.78515625", "lat"=>"12.615646705237545", "num"=>"4"}
+Completed 200 OK in 10707ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=3&long=78.3984375&lat=12.615646705237545&num=4" for 127.0.0.1 at 2013-02-05 11:52:08 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"3", "long"=>"78.3984375", "lat"=>"12.615646705237545", "num"=>"4"}
+Completed 200 OK in 7482ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=4&long=127.353515625&lat=20.903914959875504&num=4" for 127.0.0.1 at 2013-02-05 11:52:15 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"4", "long"=>"127.353515625", "lat"=>"20.903914959875504", "num"=>"4"}
+Completed 200 OK in 5732ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=5&long=131.220703125&lat=38.13860230583737&num=4" for 127.0.0.1 at 2013-02-05 11:52:21 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"5", "long"=>"131.220703125", "lat"=>"38.13860230583737", "num"=>"4"}
+Completed 200 OK in 10367ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=6&long=134.3408203125&lat=36.01658547035005&num=4" for 127.0.0.1 at 2013-02-05 11:52:32 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"6", "long"=>"134.3408203125", "lat"=>"36.01658547035005", "num"=>"4"}
+Completed 200 OK in 7339ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=7&long=136.58203125&lat=34.352908944564575&num=4" for 127.0.0.1 at 2013-02-05 11:52:39 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"7", "long"=>"136.58203125", "lat"=>"34.352908944564575", "num"=>"4"}
+Completed 200 OK in 1637ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=8&long=134.58251953125&lat=34.92396498420925&num=4" for 127.0.0.1 at 2013-02-05 11:52:41 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"8", "long"=>"134.58251953125", "lat"=>"34.92396498420925", "num"=>"4"}
+Completed 200 OK in 1488ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=7&long=134.58251953125&lat=34.849028802775265&num=4" for 127.0.0.1 at 2013-02-05 11:52:42 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"7", "long"=>"134.58251953125", "lat"=>"34.849028802775265", "num"=>"4"}
+Completed 200 OK in 1749ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=6&long=134.58251953125&lat=34.54243047317289&num=4" for 127.0.0.1 at 2013-02-05 11:52:44 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"6", "long"=>"134.58251953125", "lat"=>"34.54243047317289", "num"=>"4"}
+Completed 200 OK in 1267ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-02-05 11:52:45 -0700
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 292ms (Views: 25.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-02-05 11:52:45 -0700
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 303ms (Views: 60.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /foundation_and_overrides.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/_sassybuttons.css?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /_sassybuttons.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/index.css?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /index.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /application.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/modernizr.foundation.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /foundation/modernizr.foundation.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.placeholder.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /foundation/jquery.placeholder.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.accordion.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /foundation/jquery.foundation.accordion.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.alerts.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /foundation/jquery.foundation.alerts.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.forms.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /foundation/jquery.foundation.forms.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.buttons.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /foundation/jquery.foundation.buttons.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /foundation/jquery.foundation.tooltips.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.tabs.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /foundation/jquery.foundation.tabs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.navigation.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /foundation/jquery.foundation.navigation.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.reveal.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /foundation/jquery.foundation.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.joyride.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /foundation/jquery.foundation.joyride.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.orbit.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /foundation/jquery.foundation.orbit.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.magellan.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /foundation/jquery.foundation.magellan.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.clearing.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /foundation/jquery.foundation.clearing.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.topbar.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /foundation/jquery.foundation.topbar.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.mediaQueryToggle.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /foundation/jquery.foundation.mediaQueryToggle.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/app.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /foundation/app.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /foundation/index.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/heatcanvas-worker.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /heatcanvas-worker.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/heatmap-leaflet.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /heatmap-leaflet.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /index.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/heatmap.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /heatmap.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.simplemodal-1.4.3.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /jquery.simplemodal-1.4.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.livetwitter.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /jquery.livetwitter.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /application.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/markercluster.js?body=1" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /markercluster.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mapstream_logo.png" for 127.0.0.1 at 2013-02-05 11:52:46 -0700
+Served asset /mapstream_logo.png - 304 Not Modified (8ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=3&long=-90&lat=21.677302820385584&num=4" for 127.0.0.1 at 2013-02-05 11:52:53 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"3", "long"=>"-90", "lat"=>"21.677302820385584", "num"=>"4"}
+Completed 200 OK in 11216ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/loader.gif" for 127.0.0.1 at 2013-02-05 11:53:05 -0700
+Served asset /loader.gif - 200 OK (1ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=3&long=-25.664062499999993&lat=24.518555818152166&num=4" for 127.0.0.1 at 2013-02-05 11:53:13 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"3", "long"=>"-25.664062499999993", "lat"=>"24.518555818152166", "num"=>"4"}
+Completed 200 OK in 10537ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-02-05 11:55:51 -0700
+Processing by IndexController#index as HTML
+  Rendered index/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 474ms (Views: 36.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/_sassybuttons.css?body=1" for 127.0.0.1 at 2013-02-05 11:55:51 -0700
+Served asset /_sassybuttons.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-02-05 11:55:51 -0700
+Served asset /scaffolds.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2013-02-05 11:55:51 -0700
+Served asset /foundation_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/index.css?body=1" for 127.0.0.1 at 2013-02-05 11:55:51 -0700
+Served asset /index.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/modernizr.foundation.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:51 -0700
+Served asset /foundation/modernizr.foundation.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:51 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:51 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.placeholder.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:51 -0700
+Served asset /foundation/jquery.placeholder.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.alerts.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /foundation/jquery.foundation.alerts.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.forms.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /foundation/jquery.foundation.forms.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.navigation.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /foundation/jquery.foundation.navigation.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.buttons.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /foundation/jquery.foundation.buttons.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.tooltips.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /foundation/jquery.foundation.tooltips.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.tabs.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /foundation/jquery.foundation.tabs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.orbit.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /foundation/jquery.foundation.orbit.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /application.css - 304 Not Modified (10ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.clearing.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /foundation/jquery.foundation.clearing.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.reveal.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /foundation/jquery.foundation.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/app.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /foundation/app.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/index.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /foundation/index.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.magellan.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /foundation/jquery.foundation.magellan.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.topbar.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /foundation/jquery.foundation.topbar.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.accordion.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /foundation/jquery.foundation.accordion.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.joyride.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /foundation/jquery.foundation.joyride.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.livetwitter.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /jquery.livetwitter.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/heatmap-leaflet.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /heatmap-leaflet.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/heatcanvas-worker.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /heatcanvas-worker.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/heatmap.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /heatmap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation/jquery.foundation.mediaQueryToggle.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /foundation/jquery.foundation.mediaQueryToggle.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/index.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /index.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.simplemodal-1.4.3.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /jquery.simplemodal-1.4.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/markercluster.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /markercluster.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/mapstream_logo.png" for 127.0.0.1 at 2013-02-05 11:55:52 -0700
+Served asset /mapstream_logo.png - 304 Not Modified (22ms)
+
+
+Started GET "/assets/loader.gif" for 127.0.0.1 at 2013-02-05 11:55:57 -0700
+Served asset /loader.gif - 304 Not Modified (0ms)
+
+
+Started GET "/index/image.json?phrase=Dell&zoom=3&long=-90&lat=21.677302820385584&num=4" for 127.0.0.1 at 2013-02-05 11:55:57 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"Dell", "zoom"=>"3", "long"=>"-90", "lat"=>"21.677302820385584", "num"=>"4"}
+Completed 200 OK in 7983ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=Dell&zoom=3&long=-2.109375&lat=21.302678494575673&num=4" for 127.0.0.1 at 2013-02-05 11:56:05 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"Dell", "zoom"=>"3", "long"=>"-2.109375", "lat"=>"21.302678494575673", "num"=>"4"}
+Completed 200 OK in 4072ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/loader.gif" for 127.0.0.1 at 2013-02-05 11:56:27 -0700
+Served asset /loader.gif - 304 Not Modified (0ms)
+
+
+Started GET "/index/image.json?phrase=usa&zoom=3&long=-2.109375&lat=17.52185636807596&num=4" for 127.0.0.1 at 2013-02-05 11:56:27 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"usa", "zoom"=>"3", "long"=>"-2.109375", "lat"=>"17.52185636807596", "num"=>"4"}
+Completed 200 OK in 8144ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=3&long=-3.164062499999993&lat=11.307852290276166&num=4" for 127.0.0.1 at 2013-02-05 11:56:38 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"3", "long"=>"-3.164062499999993", "lat"=>"11.307852290276166", "num"=>"4"}
+Completed 200 OK in 16416ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=usa&zoom=3&long=-2.109375&lat=17.52185636807596&num=4" for 127.0.0.1 at 2013-02-05 11:56:55 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"usa", "zoom"=>"3", "long"=>"-2.109375", "lat"=>"17.52185636807596", "num"=>"4"}
+Completed 200 OK in 7638ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=3&long=-34.62890625&lat=18.52561635118607&num=4" for 127.0.0.1 at 2013-02-05 11:57:42 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"3", "long"=>"-34.62890625", "lat"=>"18.52561635118607", "num"=>"4"}
+Completed 200 OK in 8460ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=3&long=-18.28125&lat=16.79669879428822&num=4" for 127.0.0.1 at 2013-02-05 11:57:50 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"3", "long"=>"-18.28125", "lat"=>"16.79669879428822", "num"=>"4"}
+Completed 200 OK in 7918ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=3&long=-17.578125&lat=16.70633900743004&num=4" for 127.0.0.1 at 2013-02-05 12:03:58 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"3", "long"=>"-17.578125", "lat"=>"16.70633900743004", "num"=>"4"}
+Completed 200 OK in 14132ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=4&long=0.5273437500000036&lat=38.91568963713229&num=4" for 127.0.0.1 at 2013-02-05 12:04:13 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"4", "long"=>"0.5273437500000036", "lat"=>"38.91568963713229", "num"=>"4"}
+Completed 200 OK in 10821ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=7&long=-0.4833984375&lat=51.137247360978975&num=4" for 127.0.0.1 at 2013-02-05 12:04:23 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"7", "long"=>"-0.4833984375", "lat"=>"51.137247360978975", "num"=>"4"}
+Completed 200 OK in 4626ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=7&long=-0.47790527343749956&lat=51.137247360978975&num=4" for 127.0.0.1 at 2013-02-05 12:04:28 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"7", "long"=>"-0.47790527343749956", "lat"=>"51.137247360978975", "num"=>"4"}
+Completed 200 OK in 1630ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=6&long=-0.4724121093749991&lat=50.81928405681217&num=4" for 127.0.0.1 at 2013-02-05 12:04:39 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"6", "long"=>"-0.4724121093749991", "lat"=>"50.81928405681217", "num"=>"4"}
+Completed 200 OK in 4516ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=5&long=-0.4614257812499982&lat=49.5909223688722&num=4" for 127.0.0.1 at 2013-02-05 12:04:43 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"5", "long"=>"-0.4614257812499982", "lat"=>"49.5909223688722", "num"=>"4"}
+Completed 200 OK in 7565ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=4&long=-0.4833984375&lat=44.94062899173672&num=4" for 127.0.0.1 at 2013-02-05 12:04:51 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"4", "long"=>"-0.4833984375", "lat"=>"44.94062899173672", "num"=>"4"}
+Completed 200 OK in 1413ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=3&long=-0.4394531249999929&lat=30.54621813055875&num=4" for 127.0.0.1 at 2013-02-05 12:04:52 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"3", "long"=>"-0.4394531249999929", "lat"=>"30.54621813055875", "num"=>"4"}
+Completed 200 OK in 10851ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=7&long=-75.6573486328125&lat=41.48505911056817&num=4" for 127.0.0.1 at 2013-02-05 12:05:11 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"7", "long"=>"-75.6573486328125", "lat"=>"41.48505911056817", "num"=>"4"}
+Completed 200 OK in 1749ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=blackberry&zoom=6&long=-75.662841796875&lat=41.16969856151488&num=4" for 127.0.0.1 at 2013-02-05 12:05:12 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"blackberry", "zoom"=>"6", "long"=>"-75.662841796875", "lat"=>"41.16969856151488", "num"=>"4"}
+Completed 200 OK in 1357ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/loader.gif" for 127.0.0.1 at 2013-02-05 12:05:29 -0700
+Served asset /loader.gif - 304 Not Modified (22ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=5&long=-75.65185546875&lat=39.919502167297544&num=4" for 127.0.0.1 at 2013-02-05 12:05:29 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"5", "long"=>"-75.65185546875", "lat"=>"39.919502167297544", "num"=>"4"}
+Completed 200 OK in 14384ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=4&long=-75.6298828125&lat=35.40705936683423&num=4" for 127.0.0.1 at 2013-02-05 12:05:43 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"4", "long"=>"-75.6298828125", "lat"=>"35.40705936683423", "num"=>"4"}
+Completed 200 OK in 1519ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=3&long=-75.673828125&lat=22.71270124829273&num=4" for 127.0.0.1 at 2013-02-05 12:05:45 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"3", "long"=>"-75.673828125", "lat"=>"22.71270124829273", "num"=>"4"}
+Completed 200 OK in 4754ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/loader.gif" for 127.0.0.1 at 2013-02-05 12:05:50 -0700
+Served asset /loader.gif - 304 Not Modified (2ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=3&long=-64.423828125&lat=22.71270124829273&num=4" for 127.0.0.1 at 2013-02-05 12:05:50 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"3", "long"=>"-64.423828125", "lat"=>"22.71270124829273", "num"=>"4"}
+Completed 200 OK in 4562ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=3&long=-13.447265625000007&lat=23.660450646748586&num=4" for 127.0.0.1 at 2013-02-05 12:05:55 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"3", "long"=>"-13.447265625000007", "lat"=>"23.660450646748586", "num"=>"4"}
+Completed 200 OK in 13672ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=3&long=-13.447265625000007&lat=17.52185636807596&num=4" for 127.0.0.1 at 2013-02-05 12:06:08 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"3", "long"=>"-13.447265625000007", "lat"=>"17.52185636807596", "num"=>"4"}
+Completed 200 OK in 10908ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=4&long=-64.7314453125&lat=37.3295567778879&num=4" for 127.0.0.1 at 2013-02-05 12:06:19 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"4", "long"=>"-64.7314453125", "lat"=>"37.3295567778879", "num"=>"4"}
+Completed 200 OK in 4559ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=5&long=-69.23583984375&lat=41.97564458568179&num=4" for 127.0.0.1 at 2013-02-05 12:06:24 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"5", "long"=>"-69.23583984375", "lat"=>"41.97564458568179", "num"=>"4"}
+Completed 200 OK in 10646ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=6&long=-70.191650390625&lat=43.01329807722965&num=4" for 127.0.0.1 at 2013-02-05 12:06:34 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"6", "long"=>"-70.191650390625", "lat"=>"43.01329807722965", "num"=>"4"}
+Completed 200 OK in 13348ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=7&long=-73.9105224609375&lat=40.27492743523632&num=4" for 127.0.0.1 at 2013-02-05 12:06:48 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"7", "long"=>"-73.9105224609375", "lat"=>"40.27492743523632", "num"=>"4"}
+Completed 200 OK in 7919ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=7&long=-73.5809326171875&lat=40.16610919509525&num=4" for 127.0.0.1 at 2013-02-05 12:06:56 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"7", "long"=>"-73.5809326171875", "lat"=>"40.16610919509525", "num"=>"4"}
+Completed 200 OK in 10592ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=8&long=-74.68231201171875&lat=39.78232127188892&num=4" for 127.0.0.1 at 2013-02-05 12:07:06 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"8", "long"=>"-74.68231201171875", "lat"=>"39.78232127188892", "num"=>"4"}
+Completed 200 OK in 3162ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=9&long=-76.21627807617188&lat=38.242485240679905&num=4" for 127.0.0.1 at 2013-02-05 12:07:09 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"9", "long"=>"-76.21627807617188", "lat"=>"38.242485240679905", "num"=>"4"}
+Completed 200 OK in 1592ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=10&long=-76.89262390136719&lat=38.548689190036285&num=4" for 127.0.0.1 at 2013-02-05 12:07:11 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"10", "long"=>"-76.89262390136719", "lat"=>"38.548689190036285", "num"=>"4"}
+Completed 200 OK in 1449ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=9&long=-76.89193725585938&lat=38.54381691344652&num=4" for 127.0.0.1 at 2013-02-05 12:07:12 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"9", "long"=>"-76.89193725585938", "lat"=>"38.54381691344652", "num"=>"4"}
+Completed 200 OK in 1390ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=8&long=-76.89056396484375&lat=38.52218779176529&num=4" for 127.0.0.1 at 2013-02-05 12:07:14 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"8", "long"=>"-76.89056396484375", "lat"=>"38.52218779176529", "num"=>"4"}
+Completed 200 OK in 4474ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=7&long=-76.8878173828125&lat=38.44438391302808&num=4" for 127.0.0.1 at 2013-02-05 12:07:18 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"7", "long"=>"-76.8878173828125", "lat"=>"38.44438391302808", "num"=>"4"}
+Completed 200 OK in 1594ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=6&long=-76.893310546875&lat=38.13509695937672&num=4" for 127.0.0.1 at 2013-02-05 12:07:20 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"6", "long"=>"-76.893310546875", "lat"=>"38.13509695937672", "num"=>"4"}
+Completed 200 OK in 1342ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index/image.json?phrase=obama&zoom=5&long=-76.88232421875&lat=36.92837894399826&num=4" for 127.0.0.1 at 2013-02-05 12:07:21 -0700
+Processing by IndexController#image as JSON
+  Parameters: {"phrase"=>"obama", "zoom"=>"5", "long"=>"-76.88232421875", "lat"=>"36.92837894399826", "num"=>"4"}
+Completed 200 OK in 1630ms (Views: 0.1ms | ActiveRecord: 0.0ms)

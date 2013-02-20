@@ -1,0 +1,38 @@
+<div id="main-content">
+    <div id="global-header">
+      <div id="site-logo">
+        <a href="/">
+          <%= image_tag 'mapstream_logo.png' %>
+        </a>
+      </div>
+      <div id="search-area">
+        <input id="searchBar" type="text" placeholder="Search for a keyword" />
+        <a id="search" class="expand postfix">Search</a>
+      </div>
+      <div id="image-cont">
+      </div>
+    </div>
+
+    <div id="main-description">
+      Mapstream by Getty Images is a powerful tool that maps our award-winning creative and editorial imagery based on real time Twitter trends.
+    </div>
+    <div id="info">
+        <h4>Currently trending worldwide</h4>
+        <ul id="trends">
+            <% @trends_list.each do |trend| %>
+            <li><a href="" class="trend"><%= trend %></a></li>
+            <% end %>
+        </ul>
+    </div>
+    <div id="tweets-wrapper">
+      <div id="theader">
+        Tweets <span id="tcount"></span>
+      </div>
+      <div id="tweets"></div>
+    </div>
+</div>
+
+<div id="map-content">
+    <div id="map"></div>
+</div>
+
